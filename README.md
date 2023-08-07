@@ -1,1 +1,1 @@
-# .NET-Core-Blazor-Templates
+# .NET-Core-Templates
