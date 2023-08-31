@@ -15,12 +15,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.10" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
-    <PackageReference Include="XulBenet.CRUD.DAL.NHibernate" Version="1.3.1" />
-    <PackageReference Include="XulBenet.CRUD.Logging.NHibernate" Version="1.3.1" />
-    <PackageReference Include="XulBenet.CRUD.WebAPI" Version="1.3.1" />
+    <PackageReference Include="XulBenet.CRUD.DAL.NHibernate" Version="1.3.4" />
+    <PackageReference Include="XulBenet.CRUD.Logging.NHibernate" Version="1.3.4" />
+    <PackageReference Include="XulBenet.CRUD.WebAPI" Version="1.3.4" />
   </ItemGroup>
 
   <ItemGroup>
