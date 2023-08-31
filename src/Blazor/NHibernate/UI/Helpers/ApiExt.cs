@@ -4,7 +4,7 @@
 
 using System.Net.Http.Json;
 using CRUD.Core;
-using CRUD.Extensions;
+using Extensions;
 using Templates.Blazor.NH.Shared;
 
 #endregion
